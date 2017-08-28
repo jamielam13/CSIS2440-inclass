@@ -13,7 +13,7 @@
     echo "hello world!";
     ?>
 
-    <!-- <a href = "secondPage.php">CLICK ME</a> -->
+    <a href = "newPage.php">CLICK ME</a>
 
 </body>
 </html>
