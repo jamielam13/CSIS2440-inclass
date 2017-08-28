@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<!-- Jamie Lam, age 28 -->
+
 <html lang="en">
 <head>
   <title>CE01 Hello World</title>
