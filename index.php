@@ -17,6 +17,10 @@
       
       $greeting = "PHP is fun! \n";
       echo $greeting;
+
+      $firstName = "Jamie";
+      $lastName = "Lam";
+      echo "My name is ".$firstName, $lastName;
     ?>
 
 </body>
