@@ -15,12 +15,12 @@
     <?php
       echo "hello world! <br>";
       
-      $greeting = "PHP is fun! \n";
+      $greeting = "PHP is fun! <br>";
       echo $greeting;
 
       $firstName = "Jamie";
       $lastName = "Lam";
-      echo "My name is ".$firstName, $lastName;
+      echo "My name is ".$firstName, " ".$lastName;
     ?>
 
 </body>
