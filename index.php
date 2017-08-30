@@ -17,6 +17,8 @@
       echo "<br>";
       $greeting = "PHP is fun! \n";
       echo $greeting;
+
+      echo "test, test, test"
     ?>
 
 </body>
