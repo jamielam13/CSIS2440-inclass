@@ -13,7 +13,7 @@
     <h3>My First PHP program</h3>
 
     <?php
-      echo "hello world! \n";
+      echo "hello world! \r\n";
       $greeting = "PHP is fun! \n";
       echo $greeting;
     ?>
