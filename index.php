@@ -20,7 +20,7 @@
 
       $firstName = "Jamie";
       $lastName = "Lam";
-      echo "My name is ".$firstName, " ".$lastName;
+      echo "My name is ".$firstName, " <br>".$lastName;
 
       $secondsPerhour = 60 * 60 * 60; 
       echo "The number of seconds in one hour: ".$secondsPerhour;
