@@ -14,6 +14,7 @@
 
     <?php
       echo "hello world! <br>";
+      echo "<br>";
       $greeting = "PHP is fun! \n";
       echo $greeting;
     ?>
