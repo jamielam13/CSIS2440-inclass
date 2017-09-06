@@ -24,8 +24,6 @@
 
       $secondsPerhour = 60 * 60 * 60; 
       echo "<br> The number of seconds in one hour: ".$secondsPerhour;
-
-      echo "<br> Test";
     ?>
 
 </body>
