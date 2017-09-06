@@ -10,10 +10,17 @@
   
 </head>
 <body>
-    <h3>CSIS 2440</h3>
 
-    <a href="CE01.php">CE01</a> <br>
-    <a href="CE02.php">CE02</a>
+    <?php
+      $d=date("D");
+      
+      if ($d=="Fri")
+      $message ="Have a nice weekend!";
+      
+      else
+      $message ="Have a nice day!";
+      echo $message;
+    ?>
 
 </body>
 </html>
