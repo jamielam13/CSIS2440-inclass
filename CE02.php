@@ -13,14 +13,13 @@
 
     <?php
       $d = date("D");
-      
-      if ($d == "Fri")  {
-        $message = "Have a nice weekend!";
-      } else if ($d == "Sun") {
-        $message = "Have a nice Sunday!"
-      } else 
-        $message = "Hace a nice day";
-          
+      if ($d == "Fri") {
+        echo "Have a nice weekend";
+    } elseif ($d == "Sun") {
+        echo "Have a nice Sunday!";
+    } else {
+        echo "Have a nice day!";
+    }
       echo $message;
     ?>
 
