@@ -20,7 +20,7 @@
     } else {
         echo "Have a nice day!";
     }
-        echo "Today is <br>".$d;
+        echo "<br>Today is ".$d;
         echo $message;
     ?>
 
