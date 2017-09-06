@@ -12,7 +12,7 @@
 <body>
     <h3>CSIS 2440</h3>
 
-    <a href="CSIS2440-inclass/CE01.php">CE01</a>
+    <a href="/CE01.php">CE01</a>
 
 </body>
 </html>
