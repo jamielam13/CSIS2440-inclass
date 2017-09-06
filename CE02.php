@@ -16,8 +16,11 @@
       
       if ($d == "Fri")  {
         $message = "Have a nice weekend!";
+      } else if ($d == "Sun") {
+        $message = "Have a nice Sunday!"
       } else 
-          $message = "Hace a nice day";
+        $message = "Hace a nice day";
+          
       echo $message;
     ?>
 
