@@ -22,6 +22,34 @@
     }
         echo "Today is ".$d."<br>";
         echo $message."<br>";
+
+      switch ($d) {
+        case "Mon":
+              echo "Today is Monday"
+              break;
+        case "Tues": 
+            echo "Today is Tuesday"
+            break;
+        case "Wed":
+            echo "Today is Wednesday"
+            break;
+        case "Thur":
+            echo "Today is Wednesday"
+            break;
+        case "Fri":
+            echo "Today is Wednesday"
+             break;
+        case "Sat":
+            echo "Today is Wednesday"
+            break;
+        case "Sun":
+            echo "Today is Wednesday"
+            break;
+        default:
+            echo "What is today?"    
+      }
+
+      echo $message;
     ?>
 
 </body>
