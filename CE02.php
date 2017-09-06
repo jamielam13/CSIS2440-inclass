@@ -21,7 +21,7 @@
         echo "Have a nice day!";
     }
         echo "Today is ".$d."<br>";
-        echo $message;
+        echo $message."<br>";
     ?>
 
 </body>
