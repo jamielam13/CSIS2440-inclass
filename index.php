@@ -10,21 +10,9 @@
   
 </head>
 <body>
-    <h3>My First PHP program</h3>
+    <h3>CSIS 2440</h3>
 
-    <?php
-      echo "hello world! <br>";
-      
-      $greeting = "PHP is fun! <br>";
-      echo $greeting;
-
-      $firstName = "Jamie";
-      $lastName = "Lam";
-      echo "My name is ".$firstName, " ".$lastName;
-
-      $secondsPerhour = 60 * 60 * 60; 
-      echo "<br> The number of seconds in one hour: ".$secondsPerhour;
-    ?>
+    <a href="CSIS2440-inclass/CE01.php">CE01</a>
 
 </body>
 </html>
