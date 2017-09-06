@@ -15,13 +15,13 @@
       $d = date("D");
       if ($d == "Fri") {
         echo "Have a nice weekend";
-    } elseif ($d == "Sun") {
-        echo "Have a nice Sunday!";
+    } elseif ($d == "Wed") {
+        echo "Have a nice Wednesday!";
     } else {
         echo "Have a nice day!";
     }
-        echo "<br>Today is ".$d."<br>".$message;
-        // echo $message;
+        echo "Today is ".$d."<br>";
+        echo $message;
     ?>
 
 </body>
