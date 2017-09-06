@@ -5,20 +5,19 @@
 <html lang="en">
 <head>
   <title>CE01 Hello World</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset = "utf-8">
+  <meta name = "viewport" content="width=device-width, initial-scale=1">
   
 </head>
 <body>
 
     <?php
-      $d=date("D");
+      $d = date("D");
       
-      if ($d=="Fri")
-      $message ="Have a nice weekend!";
-      
-      else
-      $message ="Have a nice day!";
+      if ($d == "Fri")  {
+        $message = "Have a nice weekend!";
+      } else 
+          $message = "Hace a nice day";
       echo $message;
     ?>
 
