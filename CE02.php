@@ -14,7 +14,7 @@
     <?php
       $d = date("D");
       echo "Today is ".$d."<br>";
-      
+
       if ($d == "Fri") {
         echo "Have a nice weekend";
     } elseif ($d == "Wed") {
@@ -48,10 +48,18 @@
             echo "Today is Sunday";
             break;
         default:
-            echo "What is today?" ;   
+            echo "Wonder which day is this?" ;   
       }
-
       echo $message;
+
+      $a = 0;
+      $b = 0;
+
+      for($i = 0; $i<5; $i++)   {
+          $a +=10;
+          $b +=5;
+      }
+      echo ("At the end of the loop a = $a and b = $b");
     ?>
 
 </body>
