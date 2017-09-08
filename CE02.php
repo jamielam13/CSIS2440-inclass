@@ -25,28 +25,28 @@
 
       switch ($d) {
         case "Mon":
-              echo "Today is Monday"
+              echo "Today is Monday";
               break;
         case "Tues": 
-            echo "Today is Tuesday"
+            echo "Today is Tuesday";
             break;
         case "Wed":
-            echo "Today is Wednesday"
+            echo "Today is Wednesday";
             break;
         case "Thur":
-            echo "Today is Wednesday"
+            echo "Today is Wednesday";
             break;
         case "Fri":
-            echo "Today is Wednesday"
+            echo "Today is Wednesday";
              break;
         case "Sat":
-            echo "Today is Wednesday"
+            echo "Today is Wednesday";
             break;
         case "Sun":
-            echo "Today is Wednesday"
+            echo "Today is Wednesday";
             break;
         default:
-            echo "What is today?"    
+            echo "What is today?" ;   
       }
 
       echo $message;
