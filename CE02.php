@@ -20,8 +20,8 @@
     } else {
         echo "Have a nice day!";
     }
-        echo "Today is ".$d."<br>";
         echo $message."<br>";
+        echo "Today is ".$d."<br>";
 
       switch ($d) {
         case "Mon":
