@@ -21,7 +21,7 @@
     } else {
         echo "Have a nice day!";
     }
-        echo $message."<br>";
+        echo $message."<br>"."<br>";
         
       switch ($d) {
         case "Mon":
@@ -48,7 +48,7 @@
         default:
             echo "Wonder which day is this?" ;   
       }
-      echo $message."<br>";
+      echo $message."<br>"."<br>";;
 
       $a = 0;
       $b = 0;
@@ -57,7 +57,7 @@
           $a += 10;
           $b += 5;
       }
-      echo ("At the end of the loop a = $a and b = $b<br>");
+      echo ("At the end of the loop a = $a and b = $b<br><br>");
 
       $i = 0;
       $num = 50;
@@ -66,7 +66,7 @@
           $num--;
           $i++;
       }
-      echo ("Loop stopped at i = $i and num = $num<br>");
+      echo ("Loop stopped at i = $i and num = $num<br><br>");
     ?>
 
 </body>
