@@ -34,16 +34,16 @@
             echo "Today is Wednesday";
             break;
         case "Thur":
-            echo "Today is Wednesday";
+            echo "Today is Thursday";
             break;
         case "Fri":
-            echo "Today is Wednesday";
+            echo "Today is Friday";
              break;
         case "Sat":
-            echo "Today is Wednesday";
+            echo "Today is Saturday";
             break;
         case "Sun":
-            echo "Today is Wednesday";
+            echo "Today is Sunday";
             break;
         default:
             echo "What is today?" ;   
