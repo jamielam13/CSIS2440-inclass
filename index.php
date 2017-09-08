@@ -14,7 +14,8 @@
 
     <h2>Inclass work</h2>
     <a href="CE01.php">CE01</a> <br>
-    <a href="CE02.php">CE02</a>
+    <a href="CE02.php">CE02</a> <br>
+    <a href="CE03.php">CE03</a>
 
 </body>
 </html>
