@@ -10,8 +10,9 @@
   
 </head>
 <body>
-    <h3>CSIS 2440</h3>
+    <h1>CSIS 2440</h1>
 
+    <h2>Inclass work</h2>
     <a href="CE01.php">CE01</a> <br>
     <a href="CE02.php">CE02</a>
 
