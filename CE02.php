@@ -7,7 +7,6 @@
   <title>CE01 Hello World</title>
   <meta charset = "utf-8">
   <meta name = "viewport" content="width=device-width, initial-scale=1">
-  
 </head>
 <body>
 
@@ -24,7 +23,6 @@
     }
         echo $message."<br>";
         
-
       switch ($d) {
         case "Mon":
               echo "Today is Monday";
@@ -55,9 +53,9 @@
       $a = 0;
       $b = 0;
 
-      for($i = 0; $i<5; $i++)   {
-          $a +=10;
-          $b +=5;
+      for($i = 0; $i < 5; $i++)   {
+          $a += 10;
+          $b += 5;
       }
       echo ("At the end of the loop a = $a and b = $b<br>");
 
