@@ -13,6 +13,8 @@
 
     <?php
       $d = date("D");
+      echo "Today is ".$d."<br>";
+      
       if ($d == "Fri") {
         echo "Have a nice weekend";
     } elseif ($d == "Wed") {
@@ -21,7 +23,7 @@
         echo "Have a nice day!";
     }
         echo $message."<br>";
-        echo "Today is ".$d."<br>";
+        
 
       switch ($d) {
         case "Mon":
