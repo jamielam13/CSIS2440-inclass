@@ -50,7 +50,7 @@
         default:
             echo "Wonder which day is this?" ;   
       }
-      echo $message;
+      echo $message."<br>";
 
       $a = 0;
       $b = 0;
