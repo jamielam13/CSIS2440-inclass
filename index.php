@@ -4,7 +4,7 @@
 
 <html lang="en">
 <head>
-  <title>CE01 Hello World</title>
+  <title>CSIS 2440</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
