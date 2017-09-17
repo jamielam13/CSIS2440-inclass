@@ -3,7 +3,7 @@
 
 <html lang="en">
 
-<<style>
+<!-- <<style>
     body
     {
         background:#222222;
@@ -886,7 +886,7 @@
     .datagrid table tbody .alt td { background: #E1EEF4; color: #000000; }
     .datagrid table tbody td:first-child { border-left: none; }
     .datagrid table tbody tr:last-child td { border-bottom: none; }
-</style>
+</style> -->
 
 <head>
 	<title>Make a Character for the Adventure</title>
