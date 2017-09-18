@@ -205,6 +205,7 @@
         } else {
             $characterport = $characterport . "Fe.jpg'>";
         }
+        echo $_POST["name"]
 	?>
 </body>
 </html>
