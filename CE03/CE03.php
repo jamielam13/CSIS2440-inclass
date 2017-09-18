@@ -894,7 +894,7 @@
 </head>
 <body>
     <div id="form_container">
-        <form method = "post" action = "/CE03/CE03/AdventureMade.php">
+        <form method = "post" action = "/CE03/AdventureMade.php">
             <ul class="appnitro">
                 <li class="first">Name:</li>
                 <li class="text"><input type="text" name="HeroName"></li>
