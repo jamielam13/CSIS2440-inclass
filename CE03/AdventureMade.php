@@ -1098,8 +1098,8 @@
             $characterport = $characterport . "Fe.jpg'>";
         }
 
-        echo $charactersheet;
         echo $characterport;
+        echo $charactersheet;
 	?>
 </body>
 </html>
