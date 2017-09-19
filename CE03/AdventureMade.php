@@ -899,7 +899,7 @@
         $age = $_POST["Age"];
         $class = $_POST["Class"];
 
-        $characterport = "<img src ='HeroImages'";
+        $characterport = "<img src ='HeroImages/";
         $charactersheet = "<header><h4>$name from $kingdom</h4><br>"
                 . "<b>$race $class</b><br>At the age of $age</header>";
     
