@@ -1099,6 +1099,7 @@
         }
 
         echo $charactersheet;
+        echo $characterport;
 	?>
 </body>
 </html>
