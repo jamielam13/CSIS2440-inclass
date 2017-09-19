@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-        echo $_GET["HeroName"];
+        echo $_POST["HeroName"];
         $characterport = "<img src ='/CE03/HeroImages";
         $charactersheet = "<header><h4>$name from $kingdom</h4><br>"
                 . "<b>$race $class</b><br>At the age of $age</header>";
