@@ -6,6 +6,7 @@
 	<meta name="viewport" content = "width=device-width, initial-scale=1">
 </head>
 <body>
+<<h1>HELLO</h1>>
 	<?php
         $characterport = "<img src ='/CE03/HeroImages";
         $charactersheet = "<header><h4>$name from $kingdom</h4><br>"
@@ -205,7 +206,7 @@
         } else {
             $characterport = $characterport . "Fe.jpg'>";
         }
-        echo $_POST["name"]
+        // echo $_POST["name"]
 	?>
 </body>
 </html>
