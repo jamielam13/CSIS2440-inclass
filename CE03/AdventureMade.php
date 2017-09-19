@@ -898,7 +898,7 @@
         $race = $_POST["Race"];
         $age = $_POST["Age"];
         $class = $_POST["Class"];
-        
+
         $characterport = "<img src ='/CE03/HeroImages";
         $charactersheet = "<header><h4>$name from $kingdom</h4><br>"
                 . "<b>$race $class</b><br>At the age of $age</header>";
@@ -1097,16 +1097,8 @@
         } else {
             $characterport = $characterport . "Fe.jpg'>";
         }
-        echo $_POST["HeroName"];
-        echo <br>;
-        echo $_POST["Race"];
-        echo <br>;
-        echo $_POST["Class"];
-        echo <br>;
-        echo $_POST["Age"];
-        echo <br>;
-        echo $_POST["KingdomName"];
-        echo <br>;
+
+        echo $charactersheet;
 	?>
 </body>
 </html>
