@@ -6,8 +6,8 @@
 	<meta name="viewport" content = "width=device-width, initial-scale=1">
 </head>
 <body>
-<<h1>HELLO</h1>>
 	<?php
+        echo $_GET["HeroName"];
         $characterport = "<img src ='/CE03/HeroImages";
         $charactersheet = "<header><h4>$name from $kingdom</h4><br>"
                 . "<b>$race $class</b><br>At the age of $age</header>";
