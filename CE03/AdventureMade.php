@@ -88,6 +88,9 @@ img
 {
     behavior:url(css/iepngfix.htc);
     border:none;
+    height: 250px;
+    padding: 3pt;
+    float: right;
 }
 
 
