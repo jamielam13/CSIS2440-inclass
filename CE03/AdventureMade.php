@@ -6,7 +6,7 @@
 	<meta name="viewport" content = "width=device-width, initial-scale=1">
 </head>
 
-<<style>
+<style>
     img {
             behavior:url(css/iepngfix.htc);
             border:none;
