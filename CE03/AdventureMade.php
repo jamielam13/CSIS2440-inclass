@@ -6,7 +6,7 @@
 	<meta name="viewport" content = "width=device-width, initial-scale=1">
 </head>
 
-<style>
+<!-- <style>
     body    {
         background:#222222;
         font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
@@ -810,7 +810,7 @@
     .datagrid table tbody .alt td { background: #E1EEF4; color: #000000; }
     .datagrid table tbody td:first-child { border-left: none; }
     .datagrid table tbody tr:last-child td { border-bottom: none; }
-</style>
+</style> -->
 
 <body>
 	<?php
