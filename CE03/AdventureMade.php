@@ -6,7 +6,17 @@
 	<meta name="viewport" content = "width=device-width, initial-scale=1">
 </head>
 
-<style>
+<<style>
+    img {
+            behavior:url(css/iepngfix.htc);
+            border:none;
+            height: 250px;
+            padding: 3pt;
+            float: right;
+        }
+</style>
+
+<!-- <style>
     body    {
         background:#222222;
         font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
@@ -55,7 +65,7 @@
         padding:0 0 20px;
     }
 
-    /* *** Logo Section  ****
+    /**** Logo Section  *****/
     h1  {
         background-color:#444444;
         margin:0;
@@ -809,8 +819,8 @@
     .datagrid table tbody td { color: #080808; border-left: 1px solid #E1EEF4;font-size: 12px;font-weight: normal; }
     .datagrid table tbody .alt td { background: #E1EEF4; color: #000000; }
     .datagrid table tbody td:first-child { border-left: none; }
-    .datagrid table tbody tr:last-child td { border-bottom: none; } */
-</style>
+    .datagrid table tbody tr:last-child td { border-bottom: none; }
+</style> -->
 
 <body>
 	<?php
