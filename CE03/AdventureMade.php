@@ -17,7 +17,6 @@
 
     #form_container {
         background:#fff;
-
         margin:0 auto;
         text-align:left;
         width:640px;
@@ -38,22 +37,20 @@
         font-size: 85%;
     }
 
-    #footer a{
+    #footer a   {
         color:#999999;
         text-decoration: none;
         border-bottom: 1px dotted #999999;
     }
 
-    #bottom
-    {
+    #bottom {
         display:block;
         height:10px;
         margin:0 auto;
         width:650px;
     }
 
-    form.appnitro
-    {
+    form.appnitro   {
         margin:20px 20px 0;
         padding:0 0 20px;
     }
