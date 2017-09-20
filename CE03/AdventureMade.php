@@ -826,6 +826,7 @@
 	<?php
         $name = $_POST["HeroName"];
         $kingdom = $_POST["KingdomName"];
+        $gender = $_POST["Gender"];
         $race = $_POST["Race"];
         $age = $_POST["Age"];
         $class = $_POST["Class"];
