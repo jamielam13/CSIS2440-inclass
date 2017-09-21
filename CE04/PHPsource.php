@@ -1,7 +1,7 @@
 <?php
         //showing form if it is not filled out
         if ($_POST['hidden1'] == 0) {
-            print <<<END;
+            print <<<END
             Please Create a Character to put into the story.<br>
             Name: <input type="text" name="Name"><br>
         Age: <input type="number" name="Age"><br>
