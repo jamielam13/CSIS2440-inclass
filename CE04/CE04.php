@@ -52,7 +52,7 @@
         <?php
             //showing form if it is not filled out
             if ($_POST['hidden1'] == 0) {
-                print end;
+                print end
                 Please Create a Character to put into the story.<br>
                 Name: <input type="text" name="Name"><br>
                 Age: <input type="number" name="Age"><br>
@@ -62,7 +62,7 @@
                     <option value="Scientest">Scientest</option>
                     <option value="Soldier">Soldier</option>
                     <option value="Doctor">Doctor</option>
-                </select><br>
+                //</select><br>
                 <input type="submit" value="Show Me" name="Create"><br>
                 end;
                 <input type="hidden" value ="1" name="hidden1">
