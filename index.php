@@ -16,7 +16,7 @@
     <a href="CE01.php">CE01</a> <br>
     <a href="CE02.php">CE02</a> <br>
     <a href="/CE03/CE03.php">CE03</a>
-    <a href="/CE04/CE04.php">CE03</a>
+    <a href="/CE04/CE04.php">CE04</a>
 
 </body>
 </html>
