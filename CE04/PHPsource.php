@@ -26,10 +26,10 @@ END;
         $class = $_POST['Class'];
         
         // reading in the files
-        $settings = explode("\n", file_get_contents('settings.txt'));
-        $objectives = explode("\n", file_get_contents('objectives.txt'));
-        $antagonists = explode("\n", file_get_contents('antagonists.txt'));
-        $complications = explode("\n", file_get_contents('complications.txt'));
+        $settings = explode("\n", file_get_contents('/CE04/settings.txt'));
+        $objectives = explode("\n", file_get_contents('/CE04/objectives.txt'));
+        $antagonists = explode("\n", file_get_contents('/CE04/antagonists.txt'));
+        $complications = explode("\n", file_get_contents('/CE04/complications.txt'));
 
         shuffle($settings);
         shuffle($objectives);
