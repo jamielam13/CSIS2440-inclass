@@ -1,7 +1,7 @@
 <?php
     //showing form if it is not filled out
     if ($_POST['hidden1'] == 0) {
-        echo("here")
+        echo("here");
 //         print <<<END
 //         Please Create a Character to put into the story.<br>
 //         Name: <input type="text" name="Name"><br>
@@ -54,6 +54,6 @@
 
         echo $settings[0]." ".$objectives[0]." ".$antagonists[0]." "<div class="$complications"
             .<br><input type="submit" value "Try Again" name="Create"><br><input type="hidden"
-            value="0" name="hidden1">
+            value="0" name="hidden1">;
     }    
 ?>
