@@ -33,7 +33,7 @@
     <body>
         <h1>Story Idea Generator</h1>
         <div id="main">
-            <form action="PHPsource.php" method="post">
+            <form action="CE04/PHPsource.php" method="post">
                  Please Create a Character to put into the story.<br>
                     Name: <input type="text" name="Name"><br>
                 Age: <input type="number" name="Age"><br>
@@ -44,7 +44,7 @@
                     <option value="Soldier">Soldier</option>
                     <option value="Doctor">Doctor</option>
                 </select><br>
-                <input type="submit" value="Show Me" name="hidden1"><br>
+                <input type="submit" value="Show Me" name="Create"><br>
                 <input type="hidden" value ="1" name="sneaky">                                 
             </form>
         </div>
