@@ -44,7 +44,7 @@
                     <option value="Soldier">Soldier</option>
                     <option value="Doctor">Doctor</option>
                 </select><br>
-                <input type="submit" value="Show Me" name="Create"><br>
+                <input type="submit" value="Show Me" name="hidden1"><br>
                 <input type="hidden" value ="1" name="sneaky">                                 
             </form>
         </div>
