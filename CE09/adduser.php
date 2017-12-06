@@ -22,7 +22,7 @@ and open the template in the editor.
             $country = $_POST['country'];
 
         
-        echo "<div><h1>An Example Form</h1></div>";
+        echo "<div><h1>CE09 Form Validation</h1></div>";
                 
               
             echo "Form data sucessfully validated:<br>".$name."<br>".$email."<br>".$zip."<br>".$country;
